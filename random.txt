@@ -1,0 +1,4 @@
+hello, this is just a random text file
+it will be sent to a requesting client by the server
+the file is called random.txt 
+lets hope the client is satisfied with file transfer functionality
